@@ -3,8 +3,8 @@ package com.cross;
 
 public class LineCoordinate 
 {
-	public float startX;
-	public float startY;
-	public float endX;
-	public float endY;
+	public double startX;
+	public double startY;
+	public double endX;
+	public double endY;
 }
